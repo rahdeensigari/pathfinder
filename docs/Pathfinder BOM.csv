@@ -1,0 +1,10 @@
+Quantity,Name,,Vendor,Cost,Link,,,,,,,,Notes
+1,PCB,,JLCPCB,$5.12,https://jlcpcb.com,,,,,,,,
+1,Xiao RP2040,,Amazon,$10.99,https://www.amazon.com/Microcontroller-Dual-Core-MicroPython-CircuitPython-Interfaces/dp/B0DRNTQ338?th=1,,,,,,,,
+1,10KΩ Potentiometer,,Amazon,$9.99,https://www.amazon.com/TWTADE-Amplifier-Potentiometers-Knurled-RK097N-3-10K/dp/B07XQ1Q9RN/ref=sr_1_4?th=1,,,,,,,,Out of 10
+3,220Ω Resistor,,Amazon,$4.99,https://www.amazon.com/California-JOS-Resistance-CJ50-004-220/dp/B0BDKQSZHM/ref=sr_1_3?crid=16XMFPS0YQBG&dib=eyJ2IjoiMSJ9.pq8IXZtwkjU13efAoUQ012KAyknNA0lTscBiHFNwGQeYOwKh74jaeP0cnR0W_t07MlXJhoBuTpiAi_PkLW2RKGzjaWB_1C5_ExRWu060nO_F4Nx53aDlWP26C18R_qnazFIcb2tC-R1vdzEPu_x6jP4mFH4WMysbDzTQvrAIu-1RK8A7LAyXQxoX_HepcnQ0M6FZtUAyvWCoQOUzFDzshi68qsuJUMzXO_kr0tW38ek.bRjKB1IzgTTKU2bjAj3Flym5kEurwb2sg8c93M87ml4&dib_tag=se&keywords=220%2Bohm%2Bresistor&qid=1778371277&sprefix=%2Caps%2C114&sr=8-3&th=1,,,,,,,,Out of 100
+1,Red LED,,Sparkfun,$0.50,https://www.sparkfun.com/led-basic-red-5mm.html,,,,,,,,
+1,Green LED,,Sparkfun,$0.50,https://www.sparkfun.com/led-basic-green-5mm.html,,,,,,,,
+1,Blue LED,,Sparkfun,$0.75,https://www.sparkfun.com/led-basic-blue-5mm.html,,,,,,,,
+3,Gateron Baby Kangaroo 2.0,,KeebsForAll,$1.80,https://keebsforall.com/products/gateron-baby-kangaroo-2-0-tactile-switches?_pos=1&_sid=2f2752f1a&_ss=r,,,,,,,,
+3,Keycaps,,3DP,,,,,,,,,,
